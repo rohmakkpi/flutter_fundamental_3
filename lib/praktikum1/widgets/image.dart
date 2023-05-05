@@ -1,18 +1,12 @@
 import 'package:flutter/material.dart';
 
 class MyImageWidget extends StatelessWidget{
-  const MyImageWidget({super.key, required this.image});
+  const MyImageWidget({Key? key,}) : super(key: key);
 
-  final String image;
 
   Widget build(BuildContext context) {
-    return Expanded(
-      child: Container(
-        padding: const EdgeInsets.all(30),
-        child: Image.asset(
-          image,
-        ),
-      ),
-    );
+    return Container(
+        child: Image.asset('images/polinema.png'),
+      );
   }
 }
