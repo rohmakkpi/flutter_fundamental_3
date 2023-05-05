@@ -6,7 +6,9 @@ Praktikum 1
 2. onDoubleTap() : apabila di klik 2 kali, baik pada gambar maupun button akan bertambah 1 angka
 3. onLongPress() : apabila di tekan dan ditahan, baik pada gambar maupun button akan bertambah 1 angka
 
-![onTap](https://user-images.githubusercontent.com/99937213/236110428-8c43e9ff-8dbf-4156-9520-c69d32c2acd5.jpg)
+
+![onTap](https://user-images.githubusercontent.com/99937213/236358243-5b2c8d9e-e8c4-430f-883f-c15c24480c5f.jpg)
+
 
 
 Praktikum 2
